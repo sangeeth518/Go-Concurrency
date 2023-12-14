@@ -1,2 +1,2 @@
 # Go-Concurrency
-This is a bsic golang concurrency using waitgroup
+This is a basic golang concurrency using waitgroup
